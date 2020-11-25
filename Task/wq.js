@@ -11,7 +11,7 @@ hostname=minigame.ucpopo.com
 
 #哇圈
 ############## 圈x
-https:\/\/minigame\.ucpopo\.com\/wasai\/login? url script-request-header wq.js
+https:\/\/minigame\.ucpopo\.com\/wasai\/login? url script-request-header https://raw.githubusercontent.com/myouhi/QuantumultX/master/Task/wq.js
 
 
 
