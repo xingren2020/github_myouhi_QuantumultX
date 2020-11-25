@@ -1,19 +1,20 @@
-
-/*ziye
-
+#哇圈
 
 点分享按钮获取cookie
 
 ⚠️可能会卡住，但是能获取到cookie，然后注释重写就行了！
 
-hostname=minigame.ucpopo.com
 
+#QuanX
 
-#哇圈
-############## 圈x
+#[task_local]
+0 */20 0-23 * * * https://raw.githubusercontent.com/myouhi/QuantumultX/master/Task/wq.js, tag=哇圈, img-url=https://raw.githubusercontent.com/myouhi/QuantumultX/master/img/wq.png
+
+#[rewrite_local]
 https:\/\/minigame\.ucpopo\.com\/wasai\/login? url script-request-header https://raw.githubusercontent.com/myouhi/QuantumultX/master/Task/wq.js
 
 
+hostname=minigame.ucpopo.com
 
 
 */
