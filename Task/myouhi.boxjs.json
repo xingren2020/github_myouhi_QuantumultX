@@ -8,9 +8,9 @@
     {
       "id": "ChinaTelecomBalanceReminder",
       "name": "电信余额提醒",
-      "keys": ["myouhi_10000_balanceReminder", "myouhi_10000_lowestBalance"],
+      "keys": ["10000_balanceReminder", "10000_lowestBalance"],
       "author": "@myouhi",
-      "repo": "https://github.com/myouhi/QuantumultX/blob/master/Task/10000.js",
+      "repo": "https://raw.githubusercontent.com/myouhi/QuantumultX/master/Task/10000.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/telecominfinty.png", "https://raw.githubusercontent.com/Orz-3/task/master/telecominfinty.png"],
       "script": "https://raw.githubusercontent.com/myouhi/QuantumultX/master/Task/10000.js"
     }
