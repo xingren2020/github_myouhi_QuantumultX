@@ -13,7 +13,7 @@ const lowestBalance = $.getdata($.LOWEST_BALANCE_KEY) || 5;
     $.desc = '请获取根据说明获取Cookie，点击前往';
     $.msg($.name, $.subt, $.desc, {
       'open-url':
-        'https://raw.githubusercontent.com/id77/QuantumultX/master/task/10000.cookie.js',
+        'https://raw.githubusercontent.com/myouhi/QuantumultX/master/Task/10000.js',
     });
 
     $.done();
