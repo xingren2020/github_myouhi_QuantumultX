@@ -5,7 +5,7 @@
   "icon": "https://raw.githubusercontent.com/myouhi/QuantumultX/master/myouhi.png",
   "repo": "https://github.com/myouhi/QuantumultX",
   "apps": [
-{
+    {
       "id": "ChinaTelecomBalanceReminder",
       "name": "电信余额提醒",
       "keys": ["myouhi_10000_balanceReminder", "myouhi_10000_lowestBalance"],
