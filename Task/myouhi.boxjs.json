@@ -1,4 +1,5 @@
- "id": "sunert.app.sub",
+{
+  "id": "sunert.app.sub",
   "name": "myouhi 签到应用订阅",
   "author": "@myouhi",
   "icon": "https://raw.githubusercontent.com/myouhi/QuantumultX/master/myouhi.png",
