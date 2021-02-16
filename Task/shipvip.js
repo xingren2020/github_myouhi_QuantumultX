@@ -11,7 +11,7 @@
 
 
 [MITM]
-hostname= *.xbeibeix.com.api.bilibili.biliplayer, *.v.qq.com.x.cover, *.m.v.qq.com.x.cover, *.v.qq.com.x.page, *.m.v.qq.com.x.page, *.m.v.qq.com, *.www.iqiyi.com, *.m.iqiyi.com, *.www.iqiyi.com, *.m.iqiyi.com.kszt, *.www.iqiyi.com.kszt, *.v.youku.com.v_show, *.m.youku.com.alipay_video, *.w.mgtv.com.b, *.m.mgtv.com.b, *.www.mgtv.com.b, *.tv.sohu.com.v, *.m.tv.sohu.com.v, *.film.sohu.com.album, *.m.film.sohu.com.album, *.www.le.com.ptv.vplay, *.m.le.com.ptv.vplay, *.v.pptv.com.show, *.m.pptv.com.show, *.vip.pptv.com.show, *.www.acfun.cn.v, *.m.acfun.cn.v, *.www.bilibili.com.video, *.bilibili.com, *.m.bilibili.com.video, *.www.bilibili.com.anime, *.m.bilibili.com.anime, *.www.bilibili.com/bangumi.play*, *.m.bilibili.com.bangumi.play, *.vip.1905.com.play, *.www.wasu.cn.Play.show, *.m.wasu.cn.Play.show, *.xbeibeix.com.api.bilibili, *..*.youtube.com, *.www.zuidazy4.com.index.php, *.www.zuidazy4.com?m=vod-detail-id-
+hostname= *.xbeibeix.com, *.v.qq.com, *.m.v.qq.com, *.v.qq.com *.m.v.qq, *.m.v.qq.com, *.www.iqiyi.com, *.m.iqiyi.com, *.www.iqiyi.com, *.m.iqiyi.com, *.www.iqiyi.com, *.v.youku.com, *.m.youku.com, *.w.mgtv.com, *.m.mgtv.com, *.www.mgtv.com, *.tv.sohu.com, *.m.tv.sohu.com, *.film.sohu.com, *.m.film.sohu.com, *.www.le.com, *.m.le.com, *.v.pptv.com., *.m.pptv.com, *.vip.pptv.com, *.www.acfun.cn, *.m.acfun.cn, *.www.bilibili.com, *.bilibili.com, *.m.bilibili.com, *.www.bilibili.com, *.m.bilibili.com, *.www.bilibili.com, *.m.bilibili.com, *.vip.1905.com, *.www.wasu.cn, *.m.wasu.cn, *.xbeibeix.com, *.youtube.com, *.www.zuidazy4.com, *.www.zuidazy4.com
 
 🔘 Quantumult X
 [rewrite_local]
